@@ -27,6 +27,8 @@ Rusty Notch is an interactive companion widget designed for screen bezels and ca
 
 Because it compiles to native code and uses a lightweight software renderer that composites directly with the operating system window manager, it runs without a browser engine or GPU swapchain. Idle memory stays around 12 to 18 MB RAM with roughly 0.1% CPU usage.
 
+https://github.com/user-attachments/assets/96092925-ba85-4f99-b47e-e01dc43e5ba3
+
 ---
 
 ## What Changed: v1.0.0 vs v1.2.0
@@ -90,7 +92,9 @@ Because it compiles to native code and uses a lightweight software renderer that
 2. Run the installer. It installs for the current user into `%LOCALAPPDATA%\Programs\Rusty Notch` without needing administrator privileges.
 3. Check "Start Rusty Notch on Windows startup" if desired.
 
-If Windows SmartScreen displays a warning, click **More info** then **Run anyway**. This prompt occurs on newly published applications that have not yet established Microsoft SmartScreen reputation. Binary SHA256 checksums are published in release notes for independent verification.
+If Windows SmartScreen displays a warning, click **More info** then **Run anyway**. This prompt occurs on newly published applications that have not yet established Microsoft SmartScreen reputation.
+
+https://github.com/user-attachments/assets/f33f9307-7cd6-4012-8a5b-73d8e5b0e791
 
 ### Linux (Debian, Ubuntu, Fedora, Arch)
 
